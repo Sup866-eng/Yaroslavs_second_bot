@@ -1,2 +1,2 @@
-worker: python second-time.py
+worker: python second_time.py
 heroku ps: scale worker=1
